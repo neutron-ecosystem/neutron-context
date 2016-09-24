@@ -1,0 +1,5 @@
+{
+  "name": "neutron-bar-module",
+  "version": "1.0.0",
+  "main": "bar.js"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/modules/bar/package.json",
+    "isExists": "true",
+    "main": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/modules/bar/bar.js"
+  },
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/modules/foo/package.json",
+    "isExists": "true",
+    "main": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/modules/foo/index.js"
+  },
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/node_modules/baz-neutron-function/package.json",
+    "isExists": "true",
+    "main": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/node_modules/baz-neutron-function/index.js"
+  },
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/higher-order/getBaz.js",
+    "isExists": "true"
+  },
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/package.json",
+    "isExists": "false"
+  },
+  {
+    "path": "/Users/v.sorokobatko/Develop/Github/neutron/neutron-meta/__tests__/test-workspace/context.js",
+    "isExists": "true"
+  }
+]

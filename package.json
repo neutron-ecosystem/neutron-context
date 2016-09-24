@@ -1,0 +1,21 @@
+{
+  "name": "neutron-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test-dev": "jest --watch --coverage"
+  },
+  "devDependencies": {
+    "jest": "^15.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testPathIgnorePatterns": [
+      "__tests__/test-workspace/"
+    ]
+  }
+}
